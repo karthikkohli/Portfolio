@@ -1,0 +1,42 @@
+p{
+    font-size: 25px;
+
+    color: white;
+
+}
+
+ol{
+    
+    font-size: larger;
+}
+
+a{
+    font-size: 25px;
+}
+
+body{
+
+    background-color: #bee5b0 ;
+
+    border: 30px solid #343236;
+
+  
+}
+
+h2{
+    
+    font-size: 55px;
+
+    color: burlywood ;
+    
+    
+
+}
+
+h4{
+    color: chocolate;
+}
+h3{
+
+    color: dodgerblue;
+}
